@@ -1,7 +1,8 @@
-# GitHub Pages site for the Kezivents user guide. Only this folder is
-# published; the rest of the repository stays private.
+# GitHub Pages site for the Kezivents user guide, published from the public
+# repository brianmuks/kezivents-guide. This folder is copied there by
+# .github/workflows/user-guide-pages.yml; the app code stays private.
 title: Kezivents User Guide
-description: How to create an event, invite guests, take RSVPs and check guests in with Kezivents.
+description: How to create a wedding, party or traditional ceremony invitation, invite guests, take RSVPs and check guests in with Kezivents.
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
