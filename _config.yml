@@ -1,0 +1,13 @@
+# GitHub Pages site for the Kezivents user guide. Only this folder is
+# published; the rest of the repository stays private.
+title: Kezivents User Guide
+description: How to create an event, invite guests, take RSVPs and check guests in with Kezivents.
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+search_enabled: true
+heading_anchors: true
+aux_links:
+  "Kezivents":
+    - "https://www.kezivents.com"
+footer_content: "Kezivents · +260 966 646 219 · keziventsapp@gmail.com"
